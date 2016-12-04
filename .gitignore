@@ -1,0 +1,5 @@
+/myvenv/
+*.pyc
+*.DS_Store
+*.sh
+
