@@ -2,4 +2,7 @@
 *.pyc
 *.DS_Store
 *.sh
+db.sqlite3
+*~
+__pycache__
 
